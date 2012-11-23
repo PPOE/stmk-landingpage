@@ -308,7 +308,7 @@
 <?php
               $deadline = 1353853800; //  2012-11-25 15:30:00
               echo "<!-- its ".time()." and I will toggle at ".$deadline."-->";
-              if (time() < $deadline) echo "<h1>DANKE!</h1>";
+              if (time() > $deadline) echo "<h1>DANKE!</h1>";
               else echo "<h1>Piraten wählen!";
 ?>
 
