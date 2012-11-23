@@ -303,8 +303,11 @@
           <img src="./img/Sonne_1500x500.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <!-- <h1>DANKE!</h1> -->
-              <h1>Piraten wählen!</h1>
+<?php
+              $deadline = 1353853800; //  2012-11-25 15:30:00
+              if (time() < $deadline) echo "<h1>DANKE!</h1>";
+              else echo "<h1>Piraten wählen!";
+?>
               <p class="lead">Durch deine Stimme ermöglichst du mehr Mitbestimmung in Graz. Die Piratenpartei Graz bedankt sich für Dein Vertrauen. ;-)</p>
               <!-- <a class="btn btn-large btn-primary" href="https://piratenpartei.at/mitmachen/mitarbeiten/">Sei dabei »</a> -->
             </div>
