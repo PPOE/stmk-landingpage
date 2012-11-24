@@ -300,7 +300,7 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="./img/Sonne_1500x500.jpg" alt="">
+          <img src="./img/Sonne_web.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
 
