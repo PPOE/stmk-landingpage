@@ -378,7 +378,7 @@
           Landesorganisation Steiermark <br />
           Radetzkystrasse 3/1, 8010 Graz <br />
           E-Mail: vorstand@piratenpartei-steiermark.at <br/>
-          Alle Inhalte sind unter <a href="http://creativecommons.org/licenses/by-sa/3.0/at/">Creative Commons</a> lizensiert.</p>
+          <!-- Alle Inhalte sind unter <a href="http://creativecommons.org/licenses/by-sa/3.0/at/">Creative Commons</a> lizensiert.</p> -->
       </footer>
 
     </div><!-- /.container -->
