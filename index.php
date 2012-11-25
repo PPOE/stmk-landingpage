@@ -265,7 +265,7 @@
           <a class="brand" href="http://piratenpartei.at">Piratenpartei Österreichs</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li><a href="http://piratenpartei.at/politik/grundwerte/">Grundwerte</a></li>
+              <li><a href="http://piratenpartei.at/politik/grundsatzprogramm/">Grundwerte</a></li>
               <li><a href="http://keinProgramm.at">Programm</a></li>
               <li><a href="http://wiki.piratenpartei.at">Wiki</a></li>
               <!-- <li><a href="https://piratenpartei.at/mitmachen/chat/">Chat</a></li> -->
