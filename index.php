@@ -271,6 +271,8 @@
               <!-- <li><a href="https://piratenpartei.at/mitmachen/chat/">Chat</a></li> -->
               <li><a href="http://piratenpartei-steiermark.at/presse">Presse</a></li>
               <li><a href="http://piratenpartei-steiermark.at/newsletter">Newsletter</a>
+              <li><a href="https://piratenpartei.at/mitmachen/chat">Chat</a>
+                
 
               <li><p class="navbar-text pull-right"><a href="https://www.facebook.com/PiratenparteiAT"><img src="https://piratenpartei.at/wp-content/themes/xwolfde-Piratenkleider-3294b35/images/social-media/facebook-24x24.png" width="24" height="24" alt="Facebook"></a>
               <a href="https://twitter.com/BVppoe"><img src="https://piratenpartei.at/wp-content/themes/xwolfde-Piratenkleider-3294b35/images/social-media/twitter-24x24.png" width="24" height="24" alt="Twitter"></a></p></li>
